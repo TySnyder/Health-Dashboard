@@ -1,0 +1,5 @@
+{
+  "name": "Behavioral Health Dashboard",
+  "description": "A comprehensive management system for behavioral health operations, including patient directories, daily planning, task tracking, and call lists.",
+  "requestFramePermissions": []
+}
